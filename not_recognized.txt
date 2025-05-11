@@ -1,0 +1,1 @@
+# These commands are not recognized by the assistant.
